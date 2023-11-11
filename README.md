@@ -13,6 +13,7 @@ class Kur0den:
     self.gender: str = "female"
     self.age: int = 6
     self.hair_color: str = "white"
+    self.is_workable: boor = False
 ```
 
 𝑉𝑎𝑛𝑖𝑡𝑎𝑠 𝑣𝑎𝑛𝑖𝑡𝑎𝑡𝑢𝑚, 𝑒𝑡 𝑜𝑚𝑛𝑖𝑎 𝑣𝑎𝑛𝑖𝑡𝑎𝑠.
