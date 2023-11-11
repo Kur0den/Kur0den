@@ -7,4 +7,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kur0den&theme=discord&no-frame=true&&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+
 𝑉𝑎𝑛𝑖𝑡𝑎𝑠 𝑣𝑎𝑛𝑖𝑡𝑎𝑡𝑢𝑚, 𝑒𝑡 𝑜𝑚𝑛𝑖𝑎 𝑣𝑎𝑛𝑖𝑡𝑎𝑠.
