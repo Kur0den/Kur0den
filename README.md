@@ -6,3 +6,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kur0den&theme=discord&no-frame=true&&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
+お仕事楽しい
