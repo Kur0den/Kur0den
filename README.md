@@ -1,6 +1,6 @@
 ### 🍢
 
-[![Misskey](https://img.shields.io/badge/%40Kur0den0010%40koliosky.com-404040?logo=misskey&logoColor=ffffff&label=Misskey&labelColor=A1CA03)](https://koliosky.com/@Kur0den0010)
+[![Misskey](https://img.shields.io/badge/%40Kur0den0010%40chpk.kur0den.net-404040?logo=misskey&logoColor=ffffff&label=Misskey&labelColor=A1CA03)](https://chpk.kur0den.net/@kur0den0010)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kur0den&theme=discord-old-blurple&hide_border=true&locale=ja&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
