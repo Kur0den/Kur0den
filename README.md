@@ -4,8 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=kur0den" />
 </div>
 
-[![Misskey](https://img.shields.io/badge/%40Kur0den0010%40chpk.kur0den.net-404040?logo=activitypub&logoColor=ffffff&label=ActivityPub&labelColor=F1007E)](https://chpk.kur0den.net/@kur0den0010)
-[![Bluesky Bridge](https://img.shields.io/badge/%40kur0den0010.chpk.kur0den.net.ap.brid.gy-404040?logo=bluesky&logoColor=ffffff&label=Bluesky%20Bridge&labelColor=0285FF)](https://bsky.app/profile/kur0den0010.chpk.kur0den.net.ap.brid.gy)
+[![Misskey](https://img.shields.io/badge/%40Kur0den0010%40chpk.kur0den.net-404040?logo=activitypub&logoColor=F1007E&label=ActivityPub&style=social)](https://chpk.kur0den.net/@kur0den0010)
+[![Bluesky Bridge](https://img.shields.io/badge/%40kur0den0010.chpk.kur0den.net.ap.brid.gy-404040?logo=bluesky&logoColor=0285FF&label=Bluesky%20Bridge&style=social)](https://bsky.app/profile/kur0den0010.chpk.kur0den.net.ap.brid.gy)
 
 
 
