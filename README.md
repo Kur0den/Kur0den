@@ -21,7 +21,7 @@
 大した技術もないのに色々と作ろうとしてる人
 
 ### 辛うじてできること
-[![My Skills](https://skillicons.dev/icons?i=python,aws,html,css,javascript,docker,mysql,linux,unity,git,md,aiscript&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,aws,html,css,javascript,docker,mysql,linux,unity,git,md,aiscript,kubernetes&perline=8)](https://skillicons.dev)
 
 ### 使ってるツール/サービス
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,cloudflare,github,discord,vercel,obsidian,nginx,fediverse,activitypub&perline=8)](https://skillicons.dev)
