@@ -1,9 +1,7 @@
 ### 🍢
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=kur0den" />
-</div>
 
+<img src="https://komarev.com/ghpvc/?username=kur0den" />
 [![Misskey](https://img.shields.io/badge/%40Kur0den0010%40chpk.kur0den.net-404040?logo=activitypub&logoColor=F1007E&label=ActivityPub&style=social)](https://chpk.kur0den.net/@kur0den0010)
 [![Bluesky Bridge](https://img.shields.io/badge/%40bsky-bridge.kur0den.net-404040?logo=bluesky&logoColor=0285FF&label=Bluesky%20Bridge&style=social)](https://bsky.app/profile/bsky-bridge.kur0den.net)
 
@@ -24,7 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,aws,html,css,javascript,docker,mysql,linux,unity,git,md,aiscript,kubernetes&perline=8)](https://skillicons.dev)
 
 ### 使ってるツール/サービス
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,cloudflare,github,discord,vercel,obsidian,nginx,fediverse,activitypub&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,cloudflare,github,discord,vercel,nginx,fediverse,activitypub&perline=8)](https://skillicons.dev)
 
 
 
