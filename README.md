@@ -24,7 +24,15 @@
 ### 使ってるツール/サービス
 [![My Skills](https://skillicons.dev/icons?i=vscode,neovim,cloudflare,github,discord,vercel,nginx,fediverse,activitypub&perline=8)](https://skillicons.dev)
 
-
+```py
+class Kur0den:
+  def __init__(self):
+    self.name: str = "Kur0den"
+    self.gender: str = "female"
+    self.age: int = 9
+    self.hair_color: str = "white"
+    self.is_workable: bool = False
+```
 
 
 ---
